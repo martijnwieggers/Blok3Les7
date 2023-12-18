@@ -10,7 +10,7 @@ namespace Blok3Les7
     {
         //Stap 3: Maak hier de publieke eigenschappen aan.
 
-        //Stap 4: Maak hier de constructor aan waarin direct alle eigenschappen (Merk, Type, AantalMotoren, MiximumSnelheid en Aantal Passagiers) worden meegegeven.
+        //Stap 4: Maak hier de constructor aan waarin direct alle eigenschappen (Merk, Type, AantalMotoren, MiximumSnelheid en AantalPassagiers) worden meegegeven.
 
         //Stap 5: Maak de Methode ToonInfo() aan die alle informatie afdrukt.
 
